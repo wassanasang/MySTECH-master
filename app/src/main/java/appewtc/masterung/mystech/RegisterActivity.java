@@ -56,6 +56,7 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
             passwordString = passEditText.getText().toString().trim();
 
 
+
             // Check Space
             if (nameString.equals("") ||surnameString.equals("") ||
             addressString.equals("")|| userString.equals("")||
